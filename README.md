@@ -24,7 +24,7 @@ This repository contains a complete solution for a virtual scrolling table with 
 ### **2. Folder Structure**
 
 ```
-/seedScript         # Script to populate the database
+/seedScript             # Script to populate the database
 /backend                # Backend API for data fetching
 /frontend               # Frontend application for the virtual table
 ```
@@ -59,7 +59,7 @@ Frontend available at [http://localhost:3000](http://localhost:3000).
 ---
 
 ## **Documentation**
-- **Seeding Script**: Refer to `/seeding-script/README.md`
+- **Seeding Script**: Refer to `/seedScript/README.md`
 - **Backend API**: Refer to `/backend/README.md`
 - **Frontend App**: Refer to `/frontend/README.md`
 
