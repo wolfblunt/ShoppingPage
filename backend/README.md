@@ -86,6 +86,8 @@ npx sequelize-cli db:migrate
 ### **6. Start the Server**
 ```bash
 node app.js
+# or
+npm start
 ```
 
 The API will be available at: [http://localhost:3002](http://localhost:3002)
@@ -137,8 +139,7 @@ curl "http://localhost:3002/api/orders?cursor=123&limit=50&sort=createdAt&sortDi
 The Swagger documentation is available at:  
 [http://localhost:3002/api-docs](http://localhost:5000/api-docs)
 
----
 
-## **Contributors**
+## Code credit
 
-- Your Name ([Your GitHub Profile](https://github.com/your-profile))
+Code credits for this code go to [Aman Khandelwal](https://github.com/wolfblunt)

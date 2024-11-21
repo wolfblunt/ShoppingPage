@@ -73,4 +73,6 @@ npm start
 |   ├── sorting.ts            
 ```
 
----
+## Code credit
+
+Code credits for this code go to [Aman Khandelwal](https://github.com/wolfblunt)

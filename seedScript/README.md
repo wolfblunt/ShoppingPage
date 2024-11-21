@@ -75,3 +75,7 @@ interface Order {
 
 3. **Large Data Insertion Issues**:
    - Increase MySQL's `max_allowed_packet` size if necessary.
+
+## Code credit
+
+Code credits for this code go to [Aman Khandelwal](https://github.com/wolfblunt)
